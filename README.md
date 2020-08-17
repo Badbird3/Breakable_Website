@@ -1,3 +1,2 @@
 # Breakable_Website
-- This is a web app designed to break
-## to do, create some kind of index 
+This repo contains vulnerable PHP code, practice hacking webapps by exploiting the code. 

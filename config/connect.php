@@ -1,5 +1,6 @@
 <?php
 	$connection = mysqli_connect('localhost', 'root', '', 'cms');
+	# enter creds here 
 
 	if(!$connection){
 		echo "Error: Unable to connect to MySQL." . PHP_EOL;
